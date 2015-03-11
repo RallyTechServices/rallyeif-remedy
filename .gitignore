@@ -1,0 +1,14 @@
+.buildpath
+.idea/
+.project
+Gemfile.lock
+LOCK.tmp
+configs/test*
+configs/Encoded-*
+configs/*time.file
+coverage/
+pkg/
+rake-spec.log
+rallylog.log*
+reldir*
+test_configuration_helper.rb
